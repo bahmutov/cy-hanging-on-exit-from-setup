@@ -1,0 +1,23 @@
+{
+  "name": "cy-hanging-on-exit-from-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/cy-hanging-on-exit-from-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/cy-hanging-on-exit-from-setup/issues"
+  },
+  "homepage": "https://github.com/bahmutov/cy-hanging-on-exit-from-setup#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
